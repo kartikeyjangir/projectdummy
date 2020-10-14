@@ -1,17 +1,19 @@
+.nav{
+    position: sticky;
+    top: 0px;
+}  
 .menu{
     list-style: none;
     margin: 0px;
     padding: 0px;
-    overflow: hidden;
     background-color: gray;
-    position: sticky;
+    overflow: hidden;
     top: 0;
 }
 
 .menu li{
     float:left;
     font-size: 20px;
-    position: sticky;
     
 
 }
@@ -21,7 +23,6 @@
     padding:12px;
     color: white;
    text-align: center;
-   position: sticky;
 }
 
 
