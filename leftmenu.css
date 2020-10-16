@@ -1,0 +1,23 @@
+#leftmenu{
+    display: inline-block;
+    flex-basis: 24%;
+    height: 700px;
+    overflow-y: scroll;
+    background-color: #efebeb;
+    box-sizing: border-box;
+}
+#leftmenu ul{
+    margin: 0px 10px ;
+    padding: 0px;
+    
+}
+
+.litem
+{
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+.litem:hover{
+background-color: gray;
+}

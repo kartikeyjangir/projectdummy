@@ -1,0 +1,83 @@
+#centerbody{
+        
+    display: inline-block;
+    margin: 20px;
+    flex-basis: 50%;
+   } 
+.head{
+    font-family: 'Nunito', sans-serif;
+    font-size: 47px;
+    font-weight: bold;
+} 
+
+.btn{
+    background-color: #40ce40;
+    font-size: 25px;
+    color: white;
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+.btn:hover{
+    background-color: rgb(40, 121, 40);
+}
+
+#btn1
+{
+    display: inline-block;
+    width: 150px;
+}
+#btn2{
+    display: inline-block;
+    width: 112px;
+    position: absolute;
+    right: 280px;
+}
+
+
+.img{
+    margin: 20px 0px;
+}
+
+ .centerimg img{
+    display: block;
+    width: 40%;
+    height: 35%;
+   
+    margin: 2px auto;
+}
+
+.leftalign{
+    border: 2px solid green;
+    display: block;
+   float: right;
+    width: 300px;
+    right: 100px;
+    padding: 10px;
+    margin-top: 8px;
+    margin-right: 10px;
+    margin-bottom: 18px;
+}
+
+.note{
+    background-color: rgb(246, 156, 123);
+    width: 866px;
+    margin: 20px;
+    padding: 10px;
+}
+
+#centerbody p{
+    font-size: 20px;
+}
+
+.mainbox{
+    border: 2px solid green;
+    display: block;
+    width: 341px;
+    margin: auto;
+    font-size: 20px;
+    padding: 15px
+}
+
+
+

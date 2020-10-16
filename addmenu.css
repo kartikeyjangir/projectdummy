@@ -1,0 +1,12 @@
+#addmenu{
+    flex-basis:20% ;
+    border-left: 2px solid grey;
+    box-sizing: border-box;
+    margin: 2px;
+}
+
+.add1 image{
+    margin-top: 10px;
+    margin-left: 3px;
+
+}
